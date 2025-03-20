@@ -1,0 +1,10 @@
+git init
+Initialized empty Git repository in E:/Java prog/gittnotlocal/.git/
+git add src/
+
+git commit -m "Okk"
+git remote add origin https://github.com/kkartoh/java.git
+git remote
+origin
+git push -u origin master
+
